@@ -1,0 +1,28 @@
+{
+  "contracts": [
+    {
+      "name": "PSG NFT",
+      "address": "0x93EF82a6C6C5C9F51340dB2d2Ea3e8FE81eADd99"
+    },
+    {
+      "name": "Pioneer NFT One",
+      "address": "0x5330d5D9533B97cFe5180ad4c46E8015af9E6710"
+    },
+    {
+      "name": "Pioneer NFT Two",
+      "address": "0x1311EE3EDBc1233226474915754fE77E91413c22"
+    },
+    {
+      "name": "Pioneer NFT Three",
+      "address": "0xFCCAfC2a7110d57c1Bce6D6AbEE7147cED48C1e3"
+    },
+    {
+      "name": "Pioneer NFT Four",
+      "address": "0xfF23e559E220bf3A8f9Dd9237b34384677DA224d"
+    },
+    {
+      "name": "Pioneer NFT Five",
+      "address": "0x196FF2b7E654C02908a180f3b0782DAf7cbc3ca7"
+    }
+  ]
+}
